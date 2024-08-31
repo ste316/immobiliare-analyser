@@ -1,4 +1,4 @@
-# Immobiliare .it Analyzer
+# Immobiliare .it Analyser
 This repo is an example of how you can make data accessible with Python and LLMs for FREE.
 
 ## Let me exaplain
